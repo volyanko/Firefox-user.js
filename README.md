@@ -33,5 +33,5 @@ My user.js is designed to blend in as much as possible with most other identical
 
 I checked the profile and did not find any unexpected errors. However, there is still a small chance that some sites may not work correctly (media, geolocation, logins,).
 
-**Contributing:** Fork, test, if you found an error or have a suggestion for improvement - suggest on GitHub.
+**Contributing:** Fork, test, if you found an error or have a suggestion for improvement - suggest on GitHub. 
 
