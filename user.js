@@ -75,7 +75,7 @@ user_pref("browser.preferences.defaultPerformanceSettings.enabled", false); // d
  *
  * SECTION: PRIVACY & FINGERPRINTING RESISTANCE
  * Purpose:
- *   Minimize the possibility of unique user identification through the browser
+ *   Minimize the possibility of unique user identification through the browser.
  *   Maximize compatibility with modern web resources.
  *
  ********************************************************************/
