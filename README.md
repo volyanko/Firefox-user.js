@@ -57,8 +57,8 @@ This `user.js` is intended for advanced Firefox users who want:
 ## ⚙ Installation
 
 1. Download the the `user.js` file.  
-2. Create a new profile in about:profiles
-   - Open the root directory and place the file there.
+2. Create a new profile in `about:profile`
+   - Open the `root` directory and place the file there.
    - Set this profile as default.
 3. Restart Firefox  
 
