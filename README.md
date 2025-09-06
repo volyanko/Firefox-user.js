@@ -1,4 +1,4 @@
-# Firefox Hardened user.js — Privacy & Performance Focused
+# Firefox Hardened user.js — Privacy & Performance
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
