@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Version:** 2.0 (06.09.2025)  
+**Version:** 2.5 (07.09.2025)  
 
 ## 🛡 Purpose
 
