@@ -2,8 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Version:** 2.5 (07.09.2025)  
-
 ## 🛡 Purpose
 
 This `user.js` is intended for advanced Firefox users who want:
